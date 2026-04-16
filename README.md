@@ -1,7 +1,7 @@
 ⭐ Commercial-grade poker platform | Ready for deployment
-# PokerClub Pro - Texas Holdem Platform (USDT)
+# PokerClub Pro - Texas Holdem Platform (USDT)| 德州扑克俱乐部完整源码 | USDT支付
 
-# 德州扑克俱乐部平台（支持USDT）
+# 德州扑克俱乐部平台（支持USDT）| 德州扑克俱乐部完整源码 | USDT支付
 
 # 德州撲克俱樂部平台（支援USDT）
 

@@ -91,7 +91,12 @@ A production-ready Texas Holdem Poker platform designed for real-money club oper
   安全錢包接口
 
 ---
+### Fair Play Guarantee
 
+- No house manipulation
+- Transparent game logic
+- Independent RNG mechanism
+- Withdrawals processed instantly
 ## 🧠 Tech Stack | 技术架构 | 技術架構
 
 * Server: Node.js / Golang / C++

@@ -153,7 +153,7 @@ Full deployment & technical support available
   長期維護支援
 
 ---
-## 📸 界面预览
+## 📸 界面预览|Screenshots | 系统截图 | 系統截圖
 
 | 俱乐部大厅 | 牌桌对战 | 金币商城 |
 ![01](https://github.com/user-attachments/assets/9cc21cb7-6458-4170-b9ca-7cb14c3bd6b3)
